@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+ <h1> BIENVENIDOS A JEDAY PHOTOGRAPHY </h1> 
+</header> 
+  <nav>
+                 <ul>
+                 <li>
+                     <a href="index.html">
+                              FOTOGRAFIA
+                 </a>
+                 </li>
+                 <li>
+                     <a href="index.html">
+                              usuario
+                     </a>
+                 </li>
+                 <li>
+                     <a href="index.html">
+                              PAGINA 1
+                     </a>
+                 </li>
+                 </li>
+                     <a href="index.html">
+                             PAGINA 2
+                     </a>
+                 </li>
+                 </li>
+                     </a> 
+                     <a href="injdex.html"
+                             PRODUCTOS
+                 </a>
+                 </li>
+                     <a href="index.html"
+                              CONTACTOS 
+                 </a>
+                 <li>
+
+
+                 </li>
+                 lu
+                 <a section id="content"></a>
+                 </aside>
+                 </aside>
+                 </footer>
+                 </footer>
+                 <div>
+                  </body>
+                 <article>class</article> 
+                 <h2>JEDAY PHOTOGRAPHY </h2>
+                 <ul></ul>
+
+<h2 DISEÑO </h2> 
+<h2> PLANTILLAS</H2>
+<H3> FNMN</H3>
+<H4> FOTOGRAFIAS DE ALTA CALIDAD</H4>
+<UL> FOTOGRAFIAS DE ALTO CONTRASTE</UL>
+<lI><photoshopV1 class=" 0"></photoshopV1></lI>
+<lI><PHOTOSHOPV2 class="0"></PHOTOSHOPV2></lI>
+<lI><PHOTOSHOPV3 class="0"></PHOTOSHOPV3></lI>
+<h4>Fotografias personalisadas</h4>
+<h5> ARTES DIGITALES</h5>
+<h5>reseña de cada integrante</h5>
+<h6>presentacion de fotografias</h6> 
+<h6>creacion de paginas web</h6>
+<h6> link de pagina web</h6>
+<aherf
+<h7> videos</h7>
+<h7>videos de los metodos utilizados para realizar el proyecto de emprendimiento</h7>
+<h8> CONCLUCIONES</h8>
+<P>mi primera pagina web</P>
+</body>
+</html><html>
+<h2
+FORMULARIO DE REGISTRO 2
+<input type="placeholder"nombre="nombre">
+<input type="email"placeholder="correo">
+<input type="password"placeholder="contaseña"
+<input type="tex"placeholder="apellidos"
+<h2>FORMULARIO DE REGISTRO 2</h2>
+<form action="procesar registro. php"
+
+<label form="nombre"></label><br>
+<input type="text"id ="nombre"name ="apellido"required>br><br>
+
+<label> <form ="correo"></form>="correo">correo electronico<label>=""><br>
+<input type="email"id ="correo="name"correo"required><br><br>
+
+<label for="password">contraseña:></label><br>
+<input type="password" id="password" name="password"required><br><br>
+
+<label for ="tipo de usuario">Tipo de usuario</label><br>
+<select id="tipo de usuario"name="tipo usuario"required>
+    <option value="">selecciona una opciòn</option>
+    <option value="estudiante">estudiante</option>
+    <option value="aficionado">aficionado</option>
+    <option value="tecnico">tecnico</option>
+    <option value="profesional">Profesional</option>
+</select><br><br>
+
+<label>intereses:</label><br>
+<input type="checkbox"name="intereses"[]"value"=value="software">software<br>
+<input type="checkbox" name="intereses[]"hardware">hardware<br>
+<input type="checkbox"name ="interes[]"value="programaciòn">promagraciòn<br>
+<input type="checbox"name="intereses[]"value"ia"<inteligencia artificial>br><br>
+
+    <label for="sistema">sistema operativo</label><br>
+    <label for="sistema">sistema operativo</label><br>
+    <select id="sistema" name="sistema">
+<option value="">selecciona</option>
+<option value="windows"<windows</option>
+<option value="linux">linux</option>
+<option value="macos">macOs</option>
+    </select><br><br>
+
+    <label for="nivel">nivel de experiencia:</label><br>
+    <input type="radio"name ="nivel"value="basico"required>básico<br>
+    <input type="radio"name="nivel"value="intermedio">intermedio<br>
+    <input type="radio"name="avanzado">avanzado<br><br>
+
+ <label for="pais":</label><br>
+ <input type="text"id="pais"name="pais"name="Perù">br><br>
+
+<label for="idioma">preferido:</label><br>
+<selectid id="idioma"name="idioma">
+<option value="en">inglès</option><select><br><br>
+<input type="chekbox"id="boletin"value="si">
+<label for="boletin">Deseo recibir buenos comentarios exclusivos de mis novedades exclusivas  por correo</label><br><br>
+<button type="submit">Registrate</button>
+<form>
+</form>
+<body>
+<html>
